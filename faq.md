@@ -7,3 +7,4 @@
 ### <mark>2）资料</mark>
 
 - [hby910830/FE-diligence: 这是一个前端精进（后端方向 NodeJS）的学习路线](https://github.com/hby910830/FE-diligence)
+- [Nodejs 技术栈 - 知乎](https://www.zhihu.com/column/nodejs-roadmap)
